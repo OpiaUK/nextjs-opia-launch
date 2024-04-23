@@ -12,9 +12,9 @@ export default function Home() {
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
             rel="noopener noreferrer"
           >
-            By{" "}
+            {" "}
             <Image
-              src="/OPIA-logo-red.png"
+              src="/data.png"
               alt="Logo"
               className="dark:invert"
               width={100}
